@@ -1,0 +1,291 @@
+remarks: Radial network graph (star map), central ligand has lowest heavy atom count
+planner: openfe v0.9.2 radial network
+edges:
+  edge_lig_p38a_2v_lig_p38a_2j:
+    ligand_a: lig_p38a_2v
+    ligand_b: lig_p38a_2j
+    atom mapping: {0: 0, 1: 1, 2: 2, 3: 3, 4: 4, 5: 5, 10: 21, 11: 22, 12: 23, 13: 24,
+      14: 25, 15: 26, 16: 27, 17: 30, 18: 39, 19: 40, 20: 37, 21: 38, 22: 35, 23: 36,
+      24: 33, 25: 34, 26: 31, 27: 32, 28: 41, 29: 42, 30: 43, 31: 44, 32: 47, 33: 46,
+      34: 45}
+    score: {value: '12.788', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_p38a_2v_lig_p38a_2gg:
+    ligand_a: lig_p38a_2v
+    ligand_b: lig_p38a_2gg
+    atom mapping: {0: 0, 1: 1, 2: 2, 3: 3, 4: 4, 10: 23, 11: 24, 12: 25, 13: 26, 14: 27,
+      15: 28, 16: 29, 17: 30, 18: 39, 20: 37, 21: 38, 22: 35, 23: 36, 24: 33, 25: 34,
+      26: 31, 28: 41, 29: 42, 30: 43, 31: 44, 32: 45, 33: 46, 34: 47}
+    score: {value: '16.389', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_p38a_2v_lig_p38a_2aa:
+    ligand_a: lig_p38a_2v
+    ligand_b: lig_p38a_2aa
+    atom mapping: {0: 14, 1: 13, 2: 15, 3: 9, 4: 7, 5: 8, 6: 5, 8: 6, 10: 10, 11: 11,
+      12: 12, 13: 16, 14: 17, 15: 18, 16: 19, 17: 20, 18: 29, 20: 27, 21: 28, 22: 25,
+      23: 26, 24: 23, 25: 24, 26: 21, 28: 31, 29: 32, 30: 33, 31: 34, 32: 35, 33: 36,
+      34: 37}
+    score: {value: '17.443', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_p38a_2v_lig_p38a_2p:
+    ligand_a: lig_p38a_2v
+    ligand_b: lig_p38a_2p
+    atom mapping: {0: 0, 1: 1, 2: 2, 3: 3, 4: 4, 10: 21, 11: 22, 12: 23, 13: 24, 14: 25,
+      15: 26, 16: 27, 17: 28, 18: 37, 20: 35, 21: 36, 22: 33, 23: 34, 24: 31, 25: 32,
+      26: 29, 28: 39, 29: 40, 30: 41, 31: 42, 32: 43, 33: 44}
+    score: {value: '16.255', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_p38a_2v_lig_p38a_2ff:
+    ligand_a: lig_p38a_2v
+    ligand_b: lig_p38a_2ff
+    atom mapping: {0: 19, 1: 18, 2: 20, 3: 14, 4: 12, 10: 15, 11: 16, 12: 17, 13: 21,
+      14: 22, 15: 23, 16: 24, 17: 25, 18: 34, 20: 32, 21: 33, 22: 30, 23: 31, 24: 28,
+      25: 29, 26: 26, 28: 36, 29: 37, 30: 38, 31: 39, 32: 40, 33: 41, 34: 42}
+    score: {value: '16.135', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_p38a_2v_lig_p38a_2i:
+    ligand_a: lig_p38a_2v
+    ligand_b: lig_p38a_2i
+    atom mapping: {0: 0, 1: 1, 2: 2, 3: 3, 4: 4, 10: 21, 11: 22, 12: 23, 13: 24, 14: 25,
+      15: 26, 16: 27, 17: 30, 18: 39, 19: 40, 20: 37, 21: 38, 22: 35, 24: 33, 25: 34,
+      26: 31, 27: 32, 28: 41, 29: 42, 30: 43, 31: 44, 32: 45, 33: 46, 34: 47}
+    score: {value: '13.201', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_p38a_2v_lig_p38a_2y:
+    ligand_a: lig_p38a_2v
+    ligand_b: lig_p38a_2y
+    atom mapping: {0: 21, 1: 20, 2: 22, 3: 16, 4: 14, 5: 15, 6: 11, 8: 12, 9: 13,
+      10: 17, 11: 18, 12: 19, 13: 23, 14: 24, 15: 25, 16: 26, 17: 27, 18: 36, 20: 34,
+      21: 35, 22: 32, 23: 33, 24: 30, 25: 31, 26: 28, 28: 38, 29: 39, 30: 40, 31: 41,
+      32: 42, 33: 43, 34: 44}
+    score: {value: '17.544', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_p38a_2v_lig_p38a_3fly:
+    ligand_a: lig_p38a_2v
+    ligand_b: lig_p38a_3fly
+    atom mapping: {0: 0, 1: 1, 2: 2, 3: 3, 4: 4, 5: 5, 6: 6, 7: 7, 10: 16, 11: 17,
+      12: 18, 13: 19, 14: 20, 15: 21, 16: 22, 17: 23, 18: 32, 20: 30, 21: 31, 22: 28,
+      23: 29, 24: 26, 25: 27, 26: 24, 28: 34, 29: 35, 30: 36, 31: 37, 32: 38, 33: 39,
+      34: 40}
+    score: {value: '17.941', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_p38a_2v_lig_p38a_2ee:
+    ligand_a: lig_p38a_2v
+    ligand_b: lig_p38a_2ee
+    atom mapping: {0: 0, 1: 1, 2: 2, 3: 3, 4: 4, 5: 5, 10: 27, 11: 28, 12: 29, 13: 30,
+      14: 31, 15: 32, 16: 33, 17: 34, 18: 43, 20: 41, 21: 42, 22: 39, 23: 40, 24: 37,
+      25: 38, 26: 35, 28: 45, 29: 46, 30: 47, 31: 48, 32: 51, 33: 50, 34: 49}
+    score: {value: '16.153', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_p38a_2v_lig_p38a_2z:
+    ligand_a: lig_p38a_2v
+    ligand_b: lig_p38a_2z
+    atom mapping: {0: 13, 1: 12, 2: 14, 3: 8, 4: 6, 5: 7, 6: 5, 10: 9, 11: 10, 12: 11,
+      13: 15, 14: 16, 15: 17, 16: 18, 17: 19, 18: 28, 20: 26, 21: 27, 22: 24, 23: 25,
+      24: 22, 25: 23, 26: 20, 28: 30, 29: 31, 30: 32, 31: 33, 32: 34, 33: 35, 34: 36}
+    score: {value: '16.682', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_p38a_2v_lig_p38a_2x:
+    ligand_a: lig_p38a_2v
+    ligand_b: lig_p38a_2x
+    atom mapping: {0: 0, 1: 1, 2: 2, 3: 3, 4: 4, 10: 18, 11: 19, 12: 20, 13: 21, 14: 22,
+      15: 23, 16: 24, 17: 25, 18: 34, 20: 32, 21: 33, 22: 30, 23: 31, 24: 28, 25: 29,
+      26: 26, 28: 36, 29: 37, 30: 38, 31: 39, 32: 40, 33: 41, 34: 42}
+    score: {value: '16.145', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_p38a_2v_lig_p38a_2t:
+    ligand_a: lig_p38a_2v
+    ligand_b: lig_p38a_2t
+    atom mapping: {0: 0, 1: 1, 2: 2, 3: 3, 4: 4, 5: 5, 10: 21, 11: 22, 12: 23, 13: 24,
+      14: 25, 15: 26, 16: 27, 17: 28, 18: 37, 20: 35, 21: 36, 22: 33, 23: 34, 24: 31,
+      25: 32, 26: 29, 28: 39, 29: 40, 30: 41, 31: 42, 33: 44, 34: 43}
+    score: {value: '16.462', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_p38a_2v_lig_p38a_2e:
+    ligand_a: lig_p38a_2v
+    ligand_b: lig_p38a_2e
+    atom mapping: {0: 0, 1: 1, 2: 2, 3: 3, 4: 4, 5: 5, 10: 21, 11: 22, 12: 23, 13: 24,
+      14: 25, 15: 26, 16: 27, 17: 28, 18: 37, 20: 35, 21: 36, 22: 33, 23: 34, 24: 31,
+      25: 32, 26: 29, 27: 30, 28: 39, 29: 40, 30: 41, 31: 42, 32: 45, 33: 44, 34: 43}
+    score: {value: '20.048', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_p38a_2v_lig_p38a_2r:
+    ligand_a: lig_p38a_2v
+    ligand_b: lig_p38a_2r
+    atom mapping: {0: 55, 1: 54, 2: 53, 3: 35, 4: 36, 10: 34, 11: 33, 12: 32, 13: 30,
+      14: 31, 15: 17, 16: 18, 17: 19, 18: 28, 20: 26, 21: 27, 22: 24, 23: 25, 24: 22,
+      25: 23, 26: 20, 28: 15, 29: 16, 30: 14, 31: 11, 33: 12, 34: 13}
+    score: {value: '16.467', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_p38a_2v_lig_p38a_2s:
+    ligand_a: lig_p38a_2v
+    ligand_b: lig_p38a_2s
+    atom mapping: {0: 53, 1: 52, 2: 51, 3: 33, 4: 34, 10: 32, 11: 31, 12: 30, 13: 28,
+      14: 29, 15: 15, 16: 16, 17: 17, 18: 26, 19: 27, 20: 24, 21: 25, 22: 22, 23: 23,
+      24: 20, 25: 21, 26: 18, 27: 19, 28: 13, 29: 14, 30: 12, 31: 9, 33: 10, 34: 11}
+    score: {value: '21.413', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_p38a_2v_lig_p38a_3fmh:
+    ligand_a: lig_p38a_2v
+    ligand_b: lig_p38a_3fmh
+    atom mapping: {0: 14, 1: 13, 2: 12, 3: 11, 4: 9, 5: 10, 6: 7, 8: 8, 10: 17, 11: 16,
+      12: 15, 13: 38, 14: 39, 15: 25, 16: 26, 17: 27, 18: 36, 20: 34, 21: 35, 22: 32,
+      23: 33, 24: 30, 25: 31, 26: 28, 28: 23, 29: 24, 30: 18, 31: 19, 32: 20, 33: 21,
+      34: 22}
+    score: {value: '17.279', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_p38a_2v_lig_p38a_2f:
+    ligand_a: lig_p38a_2v
+    ligand_b: lig_p38a_2f
+    atom mapping: {0: 0, 1: 1, 2: 2, 3: 3, 4: 4, 5: 5, 10: 21, 11: 22, 12: 23, 13: 24,
+      14: 25, 15: 26, 16: 27, 17: 28, 18: 37, 20: 35, 22: 33, 24: 31, 25: 32, 26: 29,
+      27: 30, 28: 39, 29: 40, 30: 41, 31: 42, 32: 45, 33: 44, 34: 43}
+    score: {value: '15.221', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_p38a_2v_lig_p38a_3fln:
+    ligand_a: lig_p38a_2v
+    ligand_b: lig_p38a_3fln
+    atom mapping: {0: 0, 1: 1, 2: 2, 3: 3, 4: 4, 10: 21, 11: 22, 12: 23, 13: 24, 14: 25,
+      15: 26, 16: 27, 17: 28, 18: 37, 20: 35, 21: 36, 22: 33, 23: 34, 24: 31, 25: 32,
+      26: 29, 28: 39, 29: 40, 30: 41, 31: 42, 32: 43, 33: 44, 34: 45}
+    score: {value: '16.502', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_p38a_2v_lig_p38a_2m:
+    ligand_a: lig_p38a_2v
+    ligand_b: lig_p38a_2m
+    atom mapping: {0: 0, 1: 1, 2: 2, 3: 3, 4: 4, 5: 5, 10: 21, 11: 22, 12: 23, 13: 24,
+      14: 25, 15: 26, 16: 27, 17: 28, 18: 37, 20: 35, 21: 36, 22: 33, 23: 34, 24: 31,
+      25: 32, 26: 29, 28: 39, 29: 40, 30: 41}
+    score: {value: '15.482', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_p38a_2v_lig_p38a_2o:
+    ligand_a: lig_p38a_2v
+    ligand_b: lig_p38a_2o
+    atom mapping: {0: 0, 1: 1, 2: 2, 3: 3, 4: 4, 10: 21, 11: 22, 12: 23, 13: 24, 14: 25,
+      15: 26, 16: 27, 17: 28, 18: 37, 20: 35, 21: 36, 22: 33, 23: 34, 24: 31, 25: 32,
+      26: 29, 28: 39, 29: 40, 30: 41, 31: 42, 32: 43, 33: 44}
+    score: {value: '16.407', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_p38a_2v_lig_p38a_2l:
+    ligand_a: lig_p38a_2v
+    ligand_b: lig_p38a_2l
+    atom mapping: {0: 0, 1: 1, 2: 2, 3: 3, 4: 4, 5: 5, 10: 21, 11: 22, 12: 23, 13: 24,
+      14: 25, 15: 26, 16: 27, 17: 28, 18: 37, 20: 35, 21: 36, 22: 33, 23: 34, 24: 31,
+      25: 32, 26: 29, 28: 39, 29: 40, 30: 41, 31: 42, 33: 44, 34: 43}
+    score: {value: '16.497', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_p38a_2v_lig_p38a_2g:
+    ligand_a: lig_p38a_2v
+    ligand_b: lig_p38a_2g
+    atom mapping: {0: 0, 1: 1, 2: 2, 3: 3, 4: 4, 5: 5, 10: 21, 11: 22, 12: 23, 13: 24,
+      14: 25, 15: 26, 16: 27, 17: 28, 18: 37, 20: 35, 21: 36, 22: 33, 24: 31, 25: 32,
+      26: 29, 28: 39, 29: 40, 30: 41, 31: 42, 32: 45, 33: 44, 34: 43}
+    score: {value: '15.320', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_p38a_2v_lig_p38a_2k:
+    ligand_a: lig_p38a_2v
+    ligand_b: lig_p38a_2k
+    atom mapping: {0: 0, 1: 1, 2: 2, 3: 3, 4: 4, 10: 21, 11: 22, 12: 23, 13: 24, 14: 25,
+      15: 26, 16: 27, 17: 28, 18: 37, 20: 35, 21: 36, 22: 33, 23: 34, 24: 31, 25: 32,
+      26: 29, 28: 39, 29: 40, 30: 41}
+    score: {value: '15.472', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_p38a_2v_lig_p38a_3flw:
+    ligand_a: lig_p38a_2v
+    ligand_b: lig_p38a_3flw
+    atom mapping: {0: 15, 1: 14, 2: 13, 3: 12, 4: 10, 5: 11, 6: 8, 8: 9, 10: 18, 11: 17,
+      12: 16, 13: 39, 14: 40, 15: 26, 16: 27, 17: 28, 18: 37, 20: 35, 21: 36, 22: 33,
+      23: 34, 24: 31, 25: 32, 26: 29, 28: 24, 29: 25, 30: 19, 31: 20, 32: 21, 33: 22,
+      34: 23}
+    score: {value: '17.441', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_p38a_2v_lig_p38a_2h:
+    ligand_a: lig_p38a_2v
+    ligand_b: lig_p38a_2h
+    atom mapping: {0: 0, 1: 1, 2: 2, 3: 3, 4: 4, 5: 5, 10: 21, 11: 22, 12: 23, 13: 24,
+      14: 25, 15: 26, 16: 27, 17: 28, 18: 37, 19: 38, 20: 35, 21: 36, 22: 33, 24: 31,
+      25: 32, 26: 29, 27: 30, 28: 39, 29: 40, 30: 41, 31: 42, 32: 45, 33: 44, 34: 43}
+    score: {value: '13.759', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_p38a_2v_lig_p38a_2bb:
+    ligand_a: lig_p38a_2v
+    ligand_b: lig_p38a_2bb
+    atom mapping: {0: 0, 1: 1, 2: 2, 3: 3, 4: 4, 5: 5, 6: 6, 7: 7, 8: 8, 10: 19, 11: 20,
+      12: 21, 13: 22, 14: 23, 15: 24, 16: 25, 17: 26, 18: 35, 20: 33, 21: 34, 22: 31,
+      23: 32, 24: 29, 25: 30, 26: 27, 28: 37, 29: 38, 30: 39, 31: 40, 32: 41, 33: 42,
+      34: 43}
+    score: {value: '17.496', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_p38a_2v_lig_p38a_3flz:
+    ligand_a: lig_p38a_2v
+    ligand_b: lig_p38a_3flz
+    atom mapping: {0: 0, 1: 1, 2: 2, 3: 3, 4: 4, 10: 21, 11: 22, 12: 23, 13: 24, 14: 25,
+      15: 26, 16: 27, 17: 28, 18: 37, 20: 35, 21: 36, 22: 33, 24: 31, 25: 32, 26: 29,
+      27: 30, 28: 39, 29: 40, 30: 41, 31: 42, 32: 43, 33: 44, 34: 45}
+    score: {value: '18.855', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_p38a_2v_lig_p38a_2n:
+    ligand_a: lig_p38a_2v
+    ligand_b: lig_p38a_2n
+    atom mapping: {0: 52, 1: 51, 2: 50, 3: 32, 4: 33, 5: 34, 10: 31, 11: 30, 12: 29,
+      13: 27, 14: 28, 15: 14, 16: 15, 17: 16, 18: 25, 19: 26, 20: 23, 21: 24, 22: 21,
+      23: 22, 24: 19, 25: 20, 26: 17, 27: 18, 28: 12, 29: 13, 30: 11, 31: 8, 32: 10,
+      33: 9}
+    score: {value: '21.200', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null

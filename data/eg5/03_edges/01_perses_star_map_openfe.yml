@@ -1,0 +1,286 @@
+remarks: Radial network graph (star map), central ligand has lowest heavy atom count
+planner: openfe v0.9.2 radial network
+edges:
+  edge_lig_CHEMBL1088740_lig_CHEMBL1093087:
+    ligand_a: lig_CHEMBL1088740
+    ligand_b: lig_CHEMBL1093087
+    atom mapping: {0: 48, 1: 47, 2: 45, 3: 46, 4: 43, 5: 44, 6: 42, 7: 40, 8: 41,
+      9: 38, 10: 39, 11: 37, 12: 35, 13: 36, 14: 33, 15: 34, 16: 28, 17: 29, 21: 26,
+      22: 27, 23: 25, 24: 23, 25: 24, 26: 22, 27: 20, 29: 21, 30: 58, 31: 59, 32: 60,
+      33: 55, 34: 56, 35: 57, 36: 53, 37: 54, 38: 51, 39: 52, 40: 49, 41: 50}
+    score: {value: '16.368', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_CHEMBL1088740_lig_CHEMBL1096003:
+    ligand_a: lig_CHEMBL1088740
+    ligand_b: lig_CHEMBL1096003
+    atom mapping: {0: 0, 1: 1, 2: 59, 3: 60, 4: 57, 5: 58, 6: 6, 7: 7, 8: 8, 9: 9,
+      10: 10, 11: 11, 12: 12, 14: 14, 15: 15, 16: 16, 17: 17, 21: 18, 22: 19, 23: 20,
+      24: 21, 25: 22, 26: 23, 27: 24, 28: 25, 30: 49, 31: 50, 32: 51, 33: 52, 34: 53,
+      35: 54, 36: 55, 37: 56, 38: 4, 39: 5, 40: 2, 41: 3}
+    score: {value: '19.485', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_CHEMBL1088740_lig_CHEMBL1085692:
+    ligand_a: lig_CHEMBL1088740
+    ligand_b: lig_CHEMBL1085692
+    atom mapping: {0: 0, 1: 1, 2: 61, 3: 62, 4: 59, 5: 60, 6: 6, 7: 7, 8: 8, 9: 9,
+      10: 10, 11: 11, 12: 12, 14: 14, 15: 15, 16: 16, 17: 17, 21: 18, 22: 19, 23: 20,
+      24: 21, 25: 22, 26: 23, 27: 24, 28: 25, 30: 51, 31: 52, 32: 53, 33: 54, 34: 55,
+      35: 56, 36: 57, 37: 58, 38: 4, 39: 5, 40: 2, 41: 3}
+    score: {value: '19.227', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_CHEMBL1088740_lig_CHEMBL1086409:
+    ligand_a: lig_CHEMBL1088740
+    ligand_b: lig_CHEMBL1086409
+    atom mapping: {1: 48, 2: 1, 3: 0, 4: 2, 5: 3, 6: 4, 7: 5, 8: 6, 9: 7, 10: 8, 11: 9,
+      12: 10, 13: 11, 14: 12, 15: 13, 16: 14, 17: 15, 21: 19, 22: 20, 23: 21, 24: 22,
+      25: 23, 26: 24, 27: 25, 28: 26, 30: 36, 31: 37, 32: 38, 33: 39, 34: 40, 35: 41,
+      36: 42, 37: 43, 38: 44, 39: 45, 40: 46, 41: 47}
+    score: {value: '20.337', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_CHEMBL1088740_lig_CHEMBL1084678:
+    ligand_a: lig_CHEMBL1088740
+    ligand_b: lig_CHEMBL1084678
+    atom mapping: {0: 0, 1: 1, 2: 62, 3: 63, 4: 60, 5: 61, 6: 6, 7: 7, 8: 8, 9: 9,
+      10: 10, 11: 11, 12: 12, 13: 13, 14: 14, 15: 15, 16: 16, 17: 17, 21: 21, 22: 22,
+      23: 23, 24: 24, 25: 25, 26: 26, 27: 27, 28: 28, 30: 52, 31: 53, 32: 54, 33: 55,
+      34: 56, 35: 57, 36: 58, 37: 59, 38: 4, 39: 5, 40: 2, 41: 3}
+    score: {value: '20.182', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_CHEMBL1088740_lig_CHEMBL1083517:
+    ligand_a: lig_CHEMBL1088740
+    ligand_b: lig_CHEMBL1083517
+    atom mapping: {1: 2, 2: 49, 3: 50, 4: 47, 5: 48, 6: 7, 7: 8, 8: 9, 9: 10, 10: 11,
+      11: 12, 12: 13, 13: 14, 14: 15, 15: 16, 16: 17, 17: 18, 21: 22, 22: 23, 23: 24,
+      24: 25, 25: 26, 26: 27, 27: 28, 28: 29, 30: 39, 31: 40, 32: 41, 33: 42, 34: 43,
+      35: 44, 36: 45, 37: 46, 38: 5, 39: 6, 40: 3, 41: 4}
+    score: {value: '20.377', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_CHEMBL1088740_lig_CHEMBL1084935:
+    ligand_a: lig_CHEMBL1088740
+    ligand_b: lig_CHEMBL1084935
+    atom mapping: {0: 56, 1: 55, 2: 53, 3: 54, 4: 51, 5: 52, 6: 50, 7: 48, 8: 49,
+      9: 46, 10: 47, 11: 45, 12: 43, 13: 44, 14: 41, 15: 42, 16: 27, 17: 28, 21: 25,
+      22: 26, 23: 24, 24: 22, 25: 23, 26: 21, 27: 19, 29: 20, 30: 66, 31: 67, 32: 68,
+      33: 63, 34: 64, 35: 65, 36: 61, 37: 62, 38: 59, 39: 60, 40: 57, 41: 58}
+    score: {value: '19.589', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_CHEMBL1088740_lig_CHEMBL1077204:
+    ligand_a: lig_CHEMBL1088740
+    ligand_b: lig_CHEMBL1077204
+    atom mapping: {0: 0, 1: 1, 2: 63, 3: 64, 4: 61, 5: 62, 6: 6, 7: 7, 8: 8, 9: 9,
+      10: 10, 11: 11, 12: 12, 13: 13, 14: 14, 15: 15, 16: 16, 17: 17, 21: 21, 22: 22,
+      23: 23, 24: 24, 25: 25, 26: 26, 27: 27, 28: 28, 30: 53, 31: 54, 32: 55, 33: 56,
+      34: 57, 35: 58, 36: 59, 37: 60, 38: 4, 39: 5, 40: 2, 41: 3}
+    score: {value: '16.766', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_CHEMBL1088740_lig_CHEMBL1083836:
+    ligand_a: lig_CHEMBL1088740
+    ligand_b: lig_CHEMBL1083836
+    atom mapping: {0: 0, 1: 1, 2: 52, 3: 53, 4: 50, 5: 51, 6: 6, 7: 7, 8: 8, 9: 9,
+      10: 10, 11: 11, 12: 12, 13: 13, 14: 14, 15: 15, 16: 16, 21: 25, 22: 26, 23: 27,
+      24: 28, 25: 29, 26: 30, 27: 31, 28: 32, 30: 42, 31: 43, 32: 44, 33: 45, 34: 46,
+      35: 47, 36: 48, 37: 49, 38: 4, 39: 5, 40: 2, 41: 3}
+    score: {value: '15.134', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_CHEMBL1088740_lig_CHEMBL1084143:
+    ligand_a: lig_CHEMBL1088740
+    ligand_b: lig_CHEMBL1084143
+    atom mapping: {0: 0, 1: 1, 2: 71, 3: 72, 4: 69, 5: 70, 6: 6, 7: 7, 8: 8, 9: 9,
+      10: 10, 11: 11, 12: 12, 13: 13, 14: 14, 15: 15, 16: 16, 17: 17, 18: 18, 21: 27,
+      22: 28, 23: 29, 24: 30, 25: 31, 26: 32, 27: 33, 28: 34, 30: 61, 31: 62, 32: 63,
+      33: 64, 34: 65, 35: 66, 36: 67, 37: 68, 38: 4, 39: 5, 40: 2, 41: 3}
+    score: {value: '20.551', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_CHEMBL1088740_lig_CHEMBL1089056:
+    ligand_a: lig_CHEMBL1088740
+    ligand_b: lig_CHEMBL1089056
+    atom mapping: {0: 0, 1: 1, 2: 49, 3: 50, 4: 47, 5: 48, 6: 6, 7: 7, 8: 8, 9: 9,
+      10: 10, 11: 11, 12: 12, 13: 13, 14: 14, 15: 15, 16: 16, 17: 17, 21: 30, 22: 31,
+      23: 32, 24: 33, 25: 34, 26: 35, 27: 36, 28: 37, 29: 38, 30: 39, 31: 40, 32: 41,
+      33: 42, 34: 43, 35: 44, 36: 45, 37: 46, 38: 4, 39: 5, 40: 2, 41: 3}
+    score: {value: '16.038', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_CHEMBL1088740_lig_CHEMBL1082248:
+    ligand_a: lig_CHEMBL1088740
+    ligand_b: lig_CHEMBL1082248
+    atom mapping: {0: 0, 1: 1, 2: 45, 3: 46, 4: 43, 5: 44, 6: 6, 7: 7, 8: 8, 9: 9,
+      10: 10, 11: 11, 12: 12, 14: 14, 15: 15, 16: 16, 17: 17, 21: 18, 22: 19, 23: 20,
+      24: 21, 25: 22, 26: 23, 27: 24, 28: 25, 30: 35, 31: 36, 32: 37, 33: 38, 34: 39,
+      35: 40, 36: 41, 37: 42, 38: 4, 39: 5, 40: 2, 41: 3}
+    score: {value: '15.122', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_CHEMBL1088740_lig_CHEMBL1084676:
+    ligand_a: lig_CHEMBL1088740
+    ligand_b: lig_CHEMBL1084676
+    atom mapping: {0: 0, 1: 1, 2: 62, 3: 63, 4: 60, 5: 61, 6: 6, 7: 7, 8: 8, 9: 9,
+      10: 10, 11: 11, 12: 12, 13: 13, 14: 14, 15: 15, 16: 16, 17: 17, 21: 21, 22: 22,
+      23: 23, 24: 24, 25: 25, 26: 26, 27: 27, 28: 28, 30: 52, 31: 53, 32: 54, 33: 55,
+      34: 56, 35: 57, 36: 58, 37: 59, 38: 4, 39: 5, 40: 2, 41: 3}
+    score: {value: '16.838', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_CHEMBL1088740_lig_CHEMBL1085895:
+    ligand_a: lig_CHEMBL1088740
+    ligand_b: lig_CHEMBL1085895
+    atom mapping: {0: 48, 1: 47, 2: 45, 3: 46, 4: 43, 5: 44, 6: 42, 7: 40, 8: 41,
+      9: 38, 10: 39, 11: 37, 12: 35, 13: 36, 14: 33, 15: 34, 16: 28, 17: 29, 21: 26,
+      22: 27, 23: 25, 24: 23, 25: 24, 26: 22, 27: 20, 29: 21, 30: 58, 31: 59, 32: 60,
+      33: 55, 34: 56, 35: 57, 36: 53, 37: 54, 38: 51, 39: 52, 40: 49, 41: 50}
+    score: {value: '16.802', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_CHEMBL1088740_lig_CHEMBL1077227:
+    ligand_a: lig_CHEMBL1088740
+    ligand_b: lig_CHEMBL1077227
+    atom mapping: {7: 7, 8: 8, 9: 9, 10: 10, 11: 11, 12: 12, 13: 13, 14: 14, 15: 15,
+      16: 16, 17: 17, 21: 30, 22: 31, 23: 32, 24: 33, 25: 34, 26: 35, 27: 36, 28: 37,
+      30: 47, 31: 49, 32: 48, 33: 50, 34: 52, 35: 51, 36: 53, 37: 54}
+    score: {value: '13.913', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_CHEMBL1088740_lig_CHEMBL1085666:
+    ligand_a: lig_CHEMBL1088740
+    ligand_b: lig_CHEMBL1085666
+    atom mapping: {0: 0, 1: 1, 2: 45, 3: 46, 4: 43, 5: 44, 6: 6, 7: 7, 8: 8, 9: 9,
+      10: 10, 11: 11, 12: 12, 13: 13, 14: 14, 15: 15, 16: 16, 17: 17, 21: 21, 22: 22,
+      23: 23, 24: 24, 25: 25, 26: 26, 27: 27, 28: 28, 30: 35, 31: 36, 32: 37, 33: 38,
+      34: 39, 35: 40, 36: 41, 37: 42, 38: 4, 39: 5, 40: 2, 41: 3}
+    score: {value: '16.758', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_CHEMBL1088740_lig_CHEMBL1078774:
+    ligand_a: lig_CHEMBL1088740
+    ligand_b: lig_CHEMBL1078774
+    atom mapping: {1: 2, 2: 50, 4: 48, 5: 49, 6: 7, 7: 8, 8: 9, 9: 10, 10: 11, 11: 12,
+      12: 13, 13: 14, 14: 15, 15: 16, 16: 17, 17: 18, 21: 31, 22: 32, 23: 33, 24: 34,
+      25: 35, 26: 36, 27: 37, 28: 38, 29: 39, 30: 40, 31: 41, 32: 42, 33: 43, 34: 44,
+      35: 45, 36: 46, 37: 47, 38: 5, 39: 6, 40: 3, 41: 4}
+    score: {value: '19.600', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_CHEMBL1088740_lig_CHEMBL1086410:
+    ligand_a: lig_CHEMBL1088740
+    ligand_b: lig_CHEMBL1086410
+    atom mapping: {0: 0, 1: 1, 2: 57, 3: 58, 4: 55, 5: 56, 6: 6, 7: 7, 8: 8, 9: 9,
+      10: 10, 11: 11, 12: 12, 13: 13, 14: 14, 15: 15, 16: 16, 17: 17, 21: 30, 22: 31,
+      23: 32, 24: 33, 25: 34, 26: 35, 27: 36, 28: 37, 30: 47, 31: 48, 32: 49, 33: 50,
+      34: 51, 35: 52, 36: 53, 37: 54, 38: 4, 39: 5, 40: 2, 41: 3}
+    score: {value: '19.729', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_CHEMBL1088740_lig_CHEMBL1096002:
+    ligand_a: lig_CHEMBL1088740
+    ligand_b: lig_CHEMBL1096002
+    atom mapping: {0: 38, 1: 37, 2: 35, 3: 36, 4: 33, 5: 34, 6: 32, 7: 30, 8: 31,
+      9: 28, 10: 29, 11: 27, 12: 25, 14: 23, 15: 24, 16: 21, 17: 22, 21: 19, 22: 20,
+      23: 18, 24: 16, 25: 17, 26: 15, 27: 13, 29: 14, 30: 48, 31: 49, 32: 50, 33: 45,
+      34: 46, 35: 47, 36: 43, 37: 44, 38: 41, 39: 42, 40: 39, 41: 40}
+    score: {value: '15.439', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_CHEMBL1088740_lig_CHEMBL1078998:
+    ligand_a: lig_CHEMBL1088740
+    ligand_b: lig_CHEMBL1078998
+    atom mapping: {7: 7, 8: 8, 9: 9, 10: 10, 11: 11, 12: 12, 13: 13, 14: 14, 15: 15,
+      16: 16, 17: 17, 21: 30, 22: 31, 23: 32, 24: 33, 25: 34, 26: 35, 27: 36, 28: 37,
+      29: 38, 30: 39, 31: 41, 32: 40, 33: 42, 34: 44, 35: 43, 36: 45, 37: 46}
+    score: {value: '13.910', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_CHEMBL1088740_lig_CHEMBL1082249:
+    ligand_a: lig_CHEMBL1088740
+    ligand_b: lig_CHEMBL1082249
+    atom mapping: {0: 0, 1: 1, 2: 55, 3: 56, 4: 53, 5: 54, 6: 6, 7: 7, 8: 8, 9: 9,
+      10: 10, 11: 11, 12: 12, 14: 14, 15: 15, 16: 16, 17: 17, 21: 18, 22: 19, 23: 20,
+      24: 21, 25: 22, 26: 23, 27: 24, 28: 25, 30: 45, 31: 46, 32: 47, 33: 48, 34: 49,
+      35: 50, 36: 51, 37: 52, 38: 4, 39: 5, 40: 2, 41: 3}
+    score: {value: '15.318', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_CHEMBL1088740_lig_CHEMBL1089393:
+    ligand_a: lig_CHEMBL1088740
+    ligand_b: lig_CHEMBL1089393
+    atom mapping: {0: 0, 1: 1, 2: 37, 3: 38, 4: 35, 5: 36, 6: 6, 7: 7, 8: 8, 9: 9,
+      10: 10, 11: 11, 12: 12, 13: 13, 14: 14, 15: 15, 16: 16, 17: 17, 21: 18, 22: 19,
+      23: 20, 24: 21, 25: 22, 26: 23, 27: 24, 28: 25, 29: 26, 30: 27, 31: 28, 32: 29,
+      33: 30, 34: 31, 35: 32, 36: 33, 37: 34, 38: 4, 39: 5, 40: 2, 41: 3}
+    score: {value: '16.286', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_CHEMBL1088740_lig_CHEMBL1084677:
+    ligand_a: lig_CHEMBL1088740
+    ligand_b: lig_CHEMBL1084677
+    atom mapping: {0: 0, 1: 1, 2: 59, 3: 60, 4: 57, 5: 58, 6: 6, 7: 7, 8: 8, 9: 9,
+      10: 10, 11: 11, 12: 12, 13: 13, 14: 14, 15: 15, 16: 16, 17: 17, 21: 21, 22: 22,
+      23: 23, 24: 24, 25: 25, 26: 26, 27: 27, 28: 28, 30: 49, 31: 50, 32: 51, 33: 52,
+      34: 53, 35: 54, 36: 55, 37: 56, 38: 4, 39: 5, 40: 2, 41: 3}
+    score: {value: '20.735', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_CHEMBL1088740_lig_CHEMBL1078691:
+    ligand_a: lig_CHEMBL1088740
+    ligand_b: lig_CHEMBL1078691
+    atom mapping: {1: 2, 2: 50, 3: 51, 4: 48, 5: 49, 6: 7, 7: 8, 8: 9, 9: 10, 10: 11,
+      11: 12, 12: 13, 13: 14, 14: 15, 15: 16, 16: 17, 17: 18, 21: 31, 22: 32, 23: 33,
+      24: 34, 25: 35, 26: 36, 27: 37, 28: 38, 29: 39, 30: 40, 31: 41, 32: 42, 33: 43,
+      34: 44, 35: 45, 36: 46, 37: 47, 38: 5, 39: 6, 40: 3, 41: 4}
+    score: {value: '20.304', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_CHEMBL1088740_lig_CHEMBL1084115:
+    ligand_a: lig_CHEMBL1088740
+    ligand_b: lig_CHEMBL1084115
+    atom mapping: {7: 5, 8: 6, 9: 7, 10: 8, 11: 9, 12: 10, 13: 11, 14: 12, 15: 13,
+      16: 14, 17: 15, 21: 28, 22: 29, 23: 30, 24: 31, 25: 32, 26: 33, 27: 34, 28: 35,
+      29: 36, 30: 37, 31: 39, 32: 38, 33: 40, 34: 42, 35: 41, 36: 43, 37: 44}
+    score: {value: '14.013', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
+  edge_lig_CHEMBL1088740_lig_CHEMBL1093088:
+    ligand_a: lig_CHEMBL1088740
+    ligand_b: lig_CHEMBL1093088
+    atom mapping: {0: 35, 1: 34, 2: 32, 3: 33, 4: 30, 5: 31, 6: 29, 7: 27, 8: 28,
+      9: 25, 10: 26, 11: 24, 12: 22, 13: 23, 14: 20, 15: 21, 16: 15, 17: 16, 21: 13,
+      22: 14, 23: 12, 24: 10, 25: 11, 26: 9, 27: 7, 29: 8, 30: 45, 31: 46, 32: 47,
+      33: 42, 34: 43, 35: 44, 36: 40, 37: 41, 38: 38, 39: 39, 40: 36, 41: 37}
+    score: {value: '16.571', method: Perses default geometric scorer}
+    mapper: Perses 0.10.1 (allow_ring_breaking=False, preserve_chirality=True, use_positions=True,
+      coordinate_tolerance=0.2)
+    remarks: null
